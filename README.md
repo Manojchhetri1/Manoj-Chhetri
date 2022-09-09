@@ -5,7 +5,7 @@
 
 <h3 align="center">Learning everyday something new</h3>
 
-<p align="center"> 💼 Working at <a href="https://github.com/shikhartech">Shikhar Technology</a> </p> 
+<p align="center"> 💼 Working at <a href="https://shikhartech.com/">Shikhar Technology</a> </p> 
 <p align="center"> ⚡ Fun fact: Wake up late 🛌 </p>
 
  <h2>🔌 Connects with me:
