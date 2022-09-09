@@ -1,20 +1,20 @@
 {
   "name": "manoj",
   "version": "5.0.0",
-  "description": "github  username Manojchhetri1",
+  "description": "github username Manojchhetri1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Manojchhetri1/Manojchhetri1.git"
+    "url": "https://github.com/Manojchhetri1/Manoj-Chhetri.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Manojchhetri1/Manojchhetri1/issues"
+    "url": "https://github.com/Manojchhetri1/Manoj-Chhetri/issues"
   },
-  "homepage": "https://github.com/Manojchhetri1/Manojchhetri1#readme",
+  "homepage": "https://github.com/Manojchhetri1/Manoj-Chhetri#readme",
   "author": "Manojchhetri1",
   "license": "ISC",
   "dependencies": {
