@@ -63,7 +63,7 @@
 
 
 
-<p><h3 align="center">Thanks for Watching my Profile.<h3></p>
+
 <p><h2 align="center">Have a nice day.<h2></p>    
 
     
