@@ -59,6 +59,7 @@
     <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="Adobephotoshop" width="40" height="40"/>
       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobeillustrator" width="40" height="40"/>
         <a href="https://www.canva.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Adobeillustrator" width="40" height="40"/>
+          <a href="https://www.adobe.com/products/premiere.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobeillustrator" width="40" height="40"/>
 </p>
 
 
