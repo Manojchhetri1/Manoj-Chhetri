@@ -8,7 +8,7 @@
 <p align="center"> 💼 Working at <a href="https://shikhartech.com/">Shikhar Technology</a> </p> 
 <p align="center"> ⚡ Fun fact: Wake up late 🛌 </p>
 
- <h2>🔌 Connects with me:
+ <h2>🔌 Connect with me:
  <p align="center">
   <a href="https://www.facebook.com/manozchhetri2053">
     <label align="center" height="20"  alt="facebook">facebook</label>
