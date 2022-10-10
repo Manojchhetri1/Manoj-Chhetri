@@ -49,6 +49,7 @@
   </tr>
 </table>
 
+
 <h2>👩‍💻 Skills</h2>
 
 <p align="center"> 
