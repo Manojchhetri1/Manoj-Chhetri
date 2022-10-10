@@ -12,22 +12,22 @@
  <p align="center">
   <a href="https://www.facebook.com/manozchhetri2053">
     <label align="center" height="20"  alt="facebook">facebook</label>
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" height="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" height="20" />
   </a>
    
    <a href="https://www.linkedin.com/in/manoz-chhetri-6ba217246/">
     <label align="center" height="20">linkedin</label>
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="20" />
   </a>
    
    <a href="https://www.instagram.com/manoz_chhetry">
     <label align="center" height="20">instagram</label>
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="20" />
   </a>
    
    <a href="mailto:manozchhetri123@gmail.com">
     <label align="center" height="20">gmail</label>
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="20" />
   </a>  
 </p>
 
