@@ -34,7 +34,6 @@
   
 ### Back-end development
 
-
 <table>
   <tr>
     <th align="center">Laravel</th>
@@ -63,7 +62,6 @@
         <a href="https://www.adobe.com/products/premiere.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobeillustrator" width="40" height="40"/>
         <a href="https://www.canva.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Adobeillustrator" width="40" height="40"/>          
 </p>
-
 
 <p><h2 align="center">Have a nice day.<h2></p>    
 
